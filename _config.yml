@@ -1,0 +1,14 @@
+# Site settings
+title: Programación, startups y errores.
+email: ''
+description: > # this means to ignore newlines until "baseurl:"
+  Hablo sobre programación, servidores, startups, emprendimiento y nuevas
+  tecnologías. Pero sobretodo hablo de como no cometer los errores que yo
+  ya he cometido.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://castillosa.github.io" # the base hostname & protocol for your site
+twitter_username: castillosa_
+github_username:  castillosa
+
+# Build settings
+markdown: kramdown
