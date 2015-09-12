@@ -4,8 +4,28 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+####Sobre mi:
+Tengo la suerte de trabajar en mi proyecto con gente increible y haciendo lo que
+mas me gusta que es programar, Soy CTO en <http://Influencity.es> y me gusta aprender
+de mis errores.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+####Lenguajes de programacion que me gustan:
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+* Python
+* Javascript
+
+####Frameworks con los que trabajo:
+
+* Django
+* Python
+
+####Servidores cloud con los que he trabajado:
+
+* Amazon
+* Rackspace
+
+####aficiones
+
+* Programar
+* Padel
+* Flamenco
